@@ -15,7 +15,7 @@ DROP SCHEMA IF EXISTS `LittleLemonDB` ;
 CREATE SCHEMA IF NOT EXISTS `LittleLemonDB` DEFAULT CHARACTER SET utf8 ;
 USE `LittleLemonDB` ;
 
--- -----------------------------------------------------
+-- ------------------------------------------------------
 -- Table `LittleLemonDB`.`Employees`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `LittleLemonDB`.`Employees` (
