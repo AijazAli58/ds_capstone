@@ -1,4 +1,4 @@
--- View for orders with quantity greater than 2
+-- Viewing orders with quantity greater than 2
 CREATE VIEW OrdersView AS (
 SELECT OrderID, Quantity, Bill_Amount
 FROM Orders

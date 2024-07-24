@@ -1,4 +1,4 @@
--- to check the database was created
+-- checkin if the database was created
 -- SHOW DATABASES;
 
 -- make sure you choose the database to use

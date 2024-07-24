@@ -1,4 +1,4 @@
--- # The SQL query for the Menus table is:
+-- # The SQL query for the Menu table is:
 create_menu_table="""
 CREATE TABLE Menus (
 MenuID INT,
